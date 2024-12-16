@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/?realm=outlook.com.br)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbmagalhaess&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbmagalhaess&layout=donut-vertical&theme=merko)](https://github.com/rafaelbmagalhaess/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbmagalhaess&layout=compact&theme=merko)
 
 
 ## Tecnologias que eu ando usando 
@@ -18,3 +18,4 @@
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
+
