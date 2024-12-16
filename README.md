@@ -12,10 +12,18 @@
 
 
 ## Tecnologias que eu ando usando 
-<div style="display: inline_block"><br/>
+<div style="text-align: center;" align="center"><br/>
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
       <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/rafaelbmagalhaess/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/rafaelbmagalhaess/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelbmagalhaess/rafaelbmagalhaess/output/github-contribution-grid-snake.svg">
+</picture>
+
 
